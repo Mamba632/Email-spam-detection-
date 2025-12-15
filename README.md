@@ -62,20 +62,29 @@ jupyter notebook
 ```
 Run `email_spam_detection.ipynb`
 
- ##Results
+---
+
+ ## Results
  The trained model successfully identifies spam emails with strong accuracy, making it suitable for real-world email filtering systems.
 
- ##🔮 Future Improvements
+---
+
+ ## 🔮 Future Improvements
  -Deploy as a Web App
 -Use Deep Learning / NLP models
 -Real-time email filtering
 -Improve dataset size & diversity
 
-##Author
+---
+
+## Author
 Manav Raval
 AI / ML Enthusiast
-📧 Email: `manavrvl979@gmail.com`
+📧 Email: [Link Text](manavrvl979@gmail.com)
+
+---
 
 ## ⭐ Acknowledgements
 Scikit-learn Documentation
 Open-source ML community
+
