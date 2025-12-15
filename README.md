@@ -80,7 +80,8 @@ Run `email_spam_detection.ipynb`
 ## Author
 Manav Raval
 AI / ML Enthusiast
-📧 Email: [Link Text](manavrvl979@gmail.com)
+📧 Email: [email](mailto:manavrvl979@gmail.com)
+Project link : [Project repo link](https://github.com/Mamba632/Email-spam-detection-/tree/main)
 
 ---
 
