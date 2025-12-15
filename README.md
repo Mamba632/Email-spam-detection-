@@ -52,3 +52,30 @@ The model learns patterns from email content and accurately predicts whether an 
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/email-spam-detection.git
+##Install dependencies
+```bash
+pip install pandas numpy scikit-learn nltk
+ ```
+##Open the notebook
+```bash
+jupyter notebook
+```
+Run `email_spam_detection.ipynb`
+
+ ##Results
+ The trained model successfully identifies spam emails with strong accuracy, making it suitable for real-world email filtering systems.
+
+ ##🔮 Future Improvements
+ -Deploy as a Web App
+-Use Deep Learning / NLP models
+-Real-time email filtering
+-Improve dataset size & diversity
+
+##Author
+Manav Raval
+AI / ML Enthusiast
+📧 Email: `manavrvl979@gmail.com`
+
+## ⭐ Acknowledgements
+Scikit-learn Documentation
+Open-source ML community
